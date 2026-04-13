@@ -89,6 +89,10 @@ Hi 👋 I'm **AYYOUB BOUSKKAR**, a passionate developer based in Morocco 🇲�
   </p>
 </a>
 
+## 🤝 Let’s Work Together
+
+💼 Open for freelance projects & collaborations — feel free to reach out!
+
 
 ## 🌐 Connect With Me
 
