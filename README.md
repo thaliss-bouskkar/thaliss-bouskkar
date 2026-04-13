@@ -7,7 +7,7 @@
 ## ✨ Animated Intro
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Laravel+Developer;UI%2FUX+Designer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Laravel+Developer;UI%2FUX+Designer;Digital+Marketing+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -48,11 +48,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaliss-bouskkar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thaliss-bouskkar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliss-bouskkar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliss-bouskkar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -68,15 +68,42 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thaliss-bouskkar&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=thaliss-bouskkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 📫 Contact
+## 🌐 Connect With Me
 
-- GitHub: https://github.com/thaliss-bouskkar  
-- 💼 Open to internships & freelance opportunities  
+<p align="center">
+  <a href="https://github.com/thaliss-bouskkar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/ayyoub-bouskkar-5311502b0/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNni%2FEUfYSviJDX%2Biqb7XPw%3D%3D)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="[https://instagram.com](https://www.instagram.com/thalissbouskkar/#)">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:ayoubbouskkar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💼 Open To Work
+
+<p align="center">
+🚀 Internships • Freelance • Collaboration Opportunities
+</p>
+
+<p align="center">
+<b>Let’s build something amazing together!</b>
+</p>
 
 ---
 
