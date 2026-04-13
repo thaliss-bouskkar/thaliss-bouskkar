@@ -20,15 +20,13 @@
 
 ## 🧑‍💻 About Me
 
-Hi 👋 I'm **AYYOUB BOUSKKAR** from Morocco 🇲🇦
+Hi 👋 I'm **AYYOUB BOUSKKAR**, a passionate developer based in Morocco 🇲🇦.
 
-💼 Full Stack Developer | 🎨 UI/UX Designer | 📈 Digital Marketer  
+- 💼 **Current Focus:** Full Stack Development & UI/UX Optimization.
+- 🚀 **Mission:** Turning complex problems into simple, beautiful, and scalable digital solutions.
+- ⚡ **Fact:** I believe that a great user experience starts with clean code and thoughtful design.
 
-I specialize in building modern, scalable, and high-performance web applications with clean design and smooth user experience.
-
-🚀 I love turning ideas into real-world digital products that solve problems and create impact.
-
-⚡ Always learning new technologies and improving my craft to deliver better and faster solutions.
+---
 
 ## 🛠️ My Tech Stack
 
@@ -77,7 +75,6 @@ I specialize in building modern, scalable, and high-performance web applications
 | **Digital Portfolio** | HTML, CSS, Figma | [View Project](#) |
 
 ---
-
 
 ## 🌐 Connect With Me
 
