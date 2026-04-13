@@ -18,15 +18,21 @@
 
 ## 🧑‍💻 About Me
 
-```txt id="aboutportfolio"
+<p align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Designer-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital%20Marketer-f97316?style=for-the-badge"/>
+
+</p>
+
+```txt
 NAME: Ayyoub Bousskar
-ROLE: Full Stack Developer
 LOCATION: Morocco 🇲🇦
 
-MISSION:
-→ Build modern scalable web apps
-→ Create clean UI/UX experiences
-→ Help businesses grow digitally
+I build modern, scalable and user-friendly web applications with a strong focus on design and performance.
+
+I turn ideas into real digital products.
 ```
 ---
 
