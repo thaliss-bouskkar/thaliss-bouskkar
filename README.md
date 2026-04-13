@@ -58,10 +58,9 @@ Hi 👋 I'm **AYYOUB BOUSKKAR**, a passionate developer based in Morocco 🇲�
 ---
 
 ## 📊 GitHub Statistics
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thaliss-bouskkar&show_icons=true&theme=dark&rank_icon=github&border_radius=10&title_color=00C853&icon_color=00C853" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliss-bouskkar&layout=compact&theme=dark&border_radius=10&title_color=00C853" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thaliss-bouskkar&show_icons=true&theme=dark&hide_border=false&title_color=00C853&icon_color=00C853" alt="GitHub Stats" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliss-bouskkar&layout=compact&theme=dark&hide_border=false&title_color=00C853" alt="Top Languages" />
 </p>
 
 ---
