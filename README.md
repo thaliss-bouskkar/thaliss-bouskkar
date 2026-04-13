@@ -1,6 +1,16 @@
 <!-- HERO PORTFOLIO HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=00C853&text=AYYOUB%20BOUSKKAR&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&height=160
+       &color=00C853
+       &text=AYYOUB%20BOUSKKAR
+       &fontSize=42
+       &fontColor=ffffff
+       &animation=fadeIn
+       &desc=
+       &descAlign=50
+       &descAlignY=50
+       &bg=https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/anim.gif"/>
 </div>
 
 <h3 align="center">
