@@ -47,44 +47,22 @@ Hi 👋 I'm **AYYOUB BOUSKKAR**, a passionate developer based in Morocco 🇲�
       <a href="https://lenguajehtml.com/html/" style="text-decoration: none;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></a>
       <a href="https://lenguajecss.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /></a>
       <br>
-      <a href="https://lenguajejs.com/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </a>
-      <a href="https://react.dev/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-      </a>
-      <br>
-      <a href="https://tailwindcss.com/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
-      </a>
-      <a href="https://getbootstrap.com/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-      </a>
+      <a href="https://lenguajejs.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
+      <a href="https://react.dev/" style="text-decoration: none;"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /></a>
+      <br><a href="https://tailwindcss.com/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white" /></a>
+      <a href="https://getbootstrap.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /></a>
     </td>
     <td align="center" valign="top">
-      <a href="https://www.php.net/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-      </a>
-      <a href="https://laravel.com/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-      </a>
+      <a href="https://www.php.net/" style="text-decoration: none;"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /></a>
+      <a href="https://laravel.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /></a>
       <br>
-      <a href="https://expressjs.com/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-      </a>
-      <a href="https://nodejs.org/en" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-      </a>
-      <a href="https://www.python.org/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      </a>
+      <a href="https://expressjs.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /</a>
+      <a href="https://nodejs.org/en" style="text-decoration: none;"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /></a>
+      <a href="https://www.python.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
       <br>
-      <a href="https://www.mongodb.com/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-      </a>
-      <a href="https://www.mysql.com/fr/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-      </a>
+      <a href="https://www.mongodb.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></a>
+      <a href="https://www.mysql.com/fr/" style="text-decoration: none;"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></a>
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white" />
