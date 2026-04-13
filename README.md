@@ -44,12 +44,8 @@ Hi 👋 I'm **AYYOUB BOUSKKAR**, a passionate developer based in Morocco 🇲�
   </tr>
   <tr>
     <td align="center" valign="top">
-      <a href="https://lenguajehtml.com/html/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-      </a>
-      <a href="https://lenguajecss.com/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-      </a>
+      <a href="https://lenguajehtml.com/html/" style="text-decoration: none;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></a>
+      <a href="https://lenguajecss.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /></a>
       <br>
       <a href="https://lenguajejs.com/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
