@@ -1,6 +1,6 @@
 <!-- HERO PORTFOLIO HEADER -->
 <div align="center" style="position: relative;">
-  <img width="100%" height="180"
+  <img width="100%" height="150"
        src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/anim.gif"/>
 </div>
 
