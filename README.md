@@ -1,110 +1,70 @@
-# 👋 Hi, I'm Ayyoub Bouskkar
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:1e3a8a&text=Ayyoub%20Bouskkar&fontSize=40&fontColor=ffffff"/>
+</div>
 
-💻 **Full Stack Developer | 🎨 Graphic Designer | 📈 Digital Marketer**
+<h3 align="center">💻 Full Stack Developer | 🎨 Designer | 📈 Digital Marketer</h3>
 
 ---
 
-## ✨ Animated Intro
+## 💫 About Me
+
+💻 Full Stack Developer (Frontend + Backend)  
+🎨 UI/UX & Graphic Design lover  
+📈 Digital Marketing enthusiast  
+🚀 Building real-world projects daily  
+
+---
+
+## 🌐 Socials
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Laravel+Developer;UI%2FUX+Designer;Digital+Marketing+Enthusiast;Always+Learning+New+Things" />
+
+<a href="https://github.com/thaliss-bouskkar">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ayyoub-bouskkar-5311502b0">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/thalissbouskkar">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:ayoubbouskkar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
-
----
-
-## 🚀 About Me
-
-- 💻 Full Stack Developer (Frontend + Backend)
-- 🎨 Graphic Designer & UI/UX lover
-- 📈 Digital Marketing enthusiast
-- 🚀 Building real-world projects & improving daily
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+### Frontend
+React • JavaScript • HTML • CSS • Bootstrap
 
-### ⚙️ Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+### Backend
+Laravel • PHP • Node.js • MongoDB • MySQL
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
-
-### 🎨 Design
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
+### Tools
+Git • GitHub • Postman • Docker • Figma • VS Code
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaliss-bouskkar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thaliss-bouskkar&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliss-bouskkar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thaliss-bouskkar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 GitHub Activity
+## 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thaliss-bouskkar&theme=react-dark" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thaliss-bouskkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/thaliss-bouskkar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/ayyoub-bouskkar-5311502b0/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNni%2FEUfYSviJDX%2Biqb7XPw%3D%3D)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="[https://instagram.com](https://www.instagram.com/thalissbouskkar/#)">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="mailto:ayoubbouskkar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💼 Open To Work
-
-<p align="center">
-🚀 Internships • Freelance • Collaboration Opportunities
-</p>
-
-<p align="center">
-<b>Let’s build something amazing together!</b>
-</p>
-
----
-
-⭐ *“Build. Learn. Improve. Repeat.”*
+💼 Open to internships & freelance opportunities  
+🚀 Let’s build something amazing together
