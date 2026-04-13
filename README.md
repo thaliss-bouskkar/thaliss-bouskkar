@@ -35,7 +35,7 @@ MISSION:
 <p align="center">
 
 <a href="https://github.com/thaliss-bouskkar">
-  <img src="https://commons.wikimedia.org/wiki/File:Github-desktop-logo-symbol.svg"/>
+  <img src="https://curity.io/images/resources/code-examples/code-examples-github.jpg"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ayyoub-bouskkar-5311502b0">
