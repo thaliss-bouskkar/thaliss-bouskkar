@@ -60,7 +60,7 @@ Hi 👋 I'm **AYYOUB BOUSKKAR**, a passionate developer based in Morocco 🇲�
 ## 📊 GitHub Statistics
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thaliss-bouskkar&theme=dark&fire=00C853" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thaliss-bouskkar&show_icons=true&theme=dark&title_color=00C853&icon_color=00C853" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-one-eight.vercel.app/api?username=thaliss-bouskkar&show_icons=true&theme=dark&title_color=00C853&icon_color=00C853" alt="GitHub Stats" />
 </p>
 
 ---
