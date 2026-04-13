@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/thaliss-bouskkar" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C853&center=true&vCenter=true&width=520&lines=Building+Modern+Web+Apps;React+%7C+Laravel+%7C+Node.js;UI%2FUX+Focused+Developer;Freelancer+%26+Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=00C853&center=true&vCenter=true&width=520&lines=Building+Modern+Web+Apps;React+%7C+Laravel+%7C+Node.js;UI%2FUX+Focused+Developer;Freelancer+%26+Problem+Solver;Always+Learning+New+Things" />
   </a>
 </p>
 
@@ -95,7 +95,7 @@ Hi 👋 I'm **AYYOUB BOUSKKAR**, a passionate developer based in Morocco 🇲�
 
 <p align="center">
     <a href="https://github.com/thaliss-bouskkar" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C853&center=true&vCenter=true&width=600&lines=Let’s+Work+Together;Open+for+Freelance+%26+Collaborations" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C853&center=true&vCenter=true&width=600&lines=Let’s+Work+Together;Open+for+Freelance+%26+Collaborations" />
     </a>
 </p>
 
