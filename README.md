@@ -91,7 +91,9 @@ Hi 👋 I'm **AYYOUB BOUSKKAR**, a passionate developer based in Morocco 🇲�
 
 ## 🤝 Let’s Work Together
 
-💼 Open for freelance projects & collaborations — feel free to reach out!
+<p align="center">
+  <img src="https://img.shields.io/badge/Let's%20Work%20Together-00C853?style=for-the-badge&logo=Handshake&logoColor=white" />
+</p>
 
 
 ## 🌐 Connect With Me
