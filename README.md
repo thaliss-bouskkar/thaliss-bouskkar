@@ -1,6 +1,6 @@
 <!-- HERO PORTFOLIO HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,100:0ea5e9&text=Ayyoub%20Bousskar&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,100:0ea5e9&text=AYYOUB%20BOUSKKAR&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
 <h3 align="center">
@@ -27,3 +27,27 @@ MISSION:
 → Build modern scalable web apps
 → Create clean UI/UX experiences
 → Help businesses grow digitally
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/thaliss-bouskkar">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayyoub-bouskkar-5311502b0">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/thalissbouskkar">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:ayoubbouskkar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
