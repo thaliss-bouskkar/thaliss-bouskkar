@@ -64,15 +64,29 @@ Hi 👋 I'm **AYYOUB BOUSKKAR**, a passionate developer based in Morocco 🇲�
       <a href="https://www.mysql.com/fr/" style="text-decoration: none;"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></a>
     </td>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white" />
+      <a href="https://www.docker.com/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      </a>
+      <a href="https://git-scm.com/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+      </a>
       <br>
+      <a href="https://www.figma.com/fr-fr/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+      </a>
+      <a href="https://www.adobe.com/fr/products/photoshop.html" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Adobe_PS-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
+      </a>
+      <a href="https://www.adobe.com/fr/products/illustrator.html" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Adobe_AI-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" />
+      </a>
       <br>
+      <a href="https://www.atlassian.com/fr/software/jira" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+      </a>
+      <a href="https://n8n.io/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
