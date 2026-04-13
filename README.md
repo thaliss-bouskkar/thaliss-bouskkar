@@ -77,7 +77,7 @@ Hi 👋 I'm **AYYOUB BOUSKKAR**, a passionate developer based in Morocco 🇲�
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=thaliss-bouskkar&theme=react-dark&area=true&color=00C853" width="100%" />
   </p>
 </a>
----
+
 
 ## 🌐 Connect With Me
 
