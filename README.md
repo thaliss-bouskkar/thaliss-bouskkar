@@ -18,8 +18,8 @@
 
 ## 🧑‍💻 About Me
 ```txt
-NAME: Ayyoub Bousskar
-LOCATION: Morocco 🇲🇦
+NAME: AYYOUB BOUSKKAR
+LOCATION: MOROCCO 🇲🇦
 
 I build modern, scalable and user-friendly web applications with a strong focus on design and performance.
 I turn ideas into real digital products.
