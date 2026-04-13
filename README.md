@@ -1,8 +1,10 @@
 <!-- HERO PORTFOLIO HEADER -->
 <div align="center" style="position: relative;">
+  <a href="https://github.com/thaliss-bouskkar">
   <img style="position:absolute; top:40px; left:0; right:0; margin:auto;"
        width="100%"
        src="https://capsule-render.vercel.app/api?type=waving&height=160&color=00C853&text=AYYOUB%20BOUSKKAR&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  </a>
 </div>
 
 <h3 align="center">
@@ -12,9 +14,11 @@
 ---
 
 <!-- ANIMATED INTRO -->
+<a href="https://github.com/thaliss-bouskkar">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C853&center=true&vCenter=true&width=520&lines=Building+Modern+Web+Apps;React+%7C+Laravel+%7C+Node.js;UI%2FUX+Focused+Developer;Freelancer+%26+Problem+Solver;Always+Learning+New+Things" />
 </p>
+</a>
 
 ---
 
