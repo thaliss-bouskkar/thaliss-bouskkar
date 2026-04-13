@@ -66,16 +66,6 @@ Hi 👋 I'm **AYYOUB BOUSKKAR**, a passionate developer based in Morocco 🇲�
 
 ---
 
-## 🚀 Featured Projects
-
-| Project Name | Tech Stack | Link |
-| :--- | :--- | :--- |
-| **Expérience Maroc 2030** | React, Laravel | [View Project](#) |
-| **Travel Agency System** | PHP, SQL, JS | [View Project](#) |
-| **Digital Portfolio** | HTML, CSS, Figma | [View Project](#) |
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
