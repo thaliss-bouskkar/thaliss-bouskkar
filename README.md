@@ -19,13 +19,14 @@
 ---
 
 ## 🧑‍💻 About Me
-```txt
-NAME: AYYOUB BOUSKKAR
-LOCATION: MOROCCO 🇲🇦
 
-I build modern, scalable and user-friendly web applications with a strong focus on design and performance.
-I turn ideas into real digital products.
-```
+I'm **AYYOUB BOUSKKAR**, a passionate Full Stack Developer from Morocco 🇲🇦
+
+I build modern, scalable, and user-centric web applications with a strong focus on UI/UX, performance, and clean architecture.
+
+💡 I turn complex ideas into simple, elegant, and functional digital products.
+
+🚀 Constantly learning, improving, and exploring new technologies to stay ahead in the digital world.
 ---
 
 ## 🌐 Connect With Me
