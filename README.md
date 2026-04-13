@@ -11,7 +11,7 @@
 
 <!-- ANIMATED INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C2FF&center=true&vCenter=true&width=520&lines=Building+Modern+Web+Apps;React+%7C+Laravel+%7C+Node.js;UI%2FUX+Focused+Developer;Freelancer+%26+Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C853&center=true&vCenter=true&width=520&lines=Building+Modern+Web+Apps;React+%7C+Laravel+%7C+Node.js;UI%2FUX+Focused+Developer;Freelancer+%26+Problem+Solver;Always+Learning+New+Things" />
 </p>
 
 ---
