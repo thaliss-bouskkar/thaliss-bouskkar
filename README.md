@@ -33,21 +33,19 @@ MISSION:
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/thaliss-bouskkar">
+    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/REPO_NAME/main/assets/icons/github.png" width="50"/>
+  </a>
 
-<a href="https://github.com/thaliss-bouskkar">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/ayyoub-bouskkar-5311502b0">
+    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/REPO_NAME/main/assets/icons/linkedin.png" width="50"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/ayyoub-bouskkar-5311502b0">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.instagram.com/thalissbouskkar">
+    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/REPO_NAME/main/assets/icons/instagram.png" width="50"/>
+  </a>
 
-<a href="https://www.instagram.com/thalissbouskkar">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:ayoubbouskkar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="mailto:ayoubbouskkar@gmail.com">
+    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/REPO_NAME/main/assets/icons/gmail.png" width="50"/>
+  </a>
 </p>
