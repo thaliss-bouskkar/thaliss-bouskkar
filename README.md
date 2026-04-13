@@ -38,14 +38,14 @@ MISSION:
   </a>
 
   <a href="https://www.linkedin.com/in/ayyoub-bouskkar-5311502b0">
-    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/REPO_NAME/main/assets/icons/linkedin.png" width="50"/>
+    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/linkedin.png" width="50"/>
   </a>
 
   <a href="https://www.instagram.com/thalissbouskkar">
-    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/REPO_NAME/main/assets/icons/instagram.png" width="50"/>
+    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkarE/main/assets/icons/instagram.png" width="50"/>
   </a>
 
   <a href="mailto:ayoubbouskkar@gmail.com">
-    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/REPO_NAME/main/assets/icons/gmail.png" width="50"/>
+    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/gmail.png" width="50"/>
   </a>
 </p>
