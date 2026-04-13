@@ -35,7 +35,7 @@ MISSION:
 <p align="center">
 
 <a href="https://github.com/thaliss-bouskkar">
-  <img src="[https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white](https://commons.wikimedia.org/wiki/File:Github-desktop-logo-symbol.svg)"/>
+  <img src="https://commons.wikimedia.org/wiki/File:Github-desktop-logo-symbol.svg"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ayyoub-bouskkar-5311502b0">
