@@ -56,7 +56,7 @@ Hi 👋 I'm **AYYOUB BOUSKKAR**, a passionate developer based in Morocco 🇲�
       <a href="https://www.php.net/" style="text-decoration: none;"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /></a>
       <a href="https://laravel.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /></a>
       <br>
-      <a href="https://expressjs.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /</a>
+      <a href="https://expressjs.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /></a>
       <a href="https://nodejs.org/en" style="text-decoration: none;"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /></a>
       <a href="https://www.python.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
       <br>
