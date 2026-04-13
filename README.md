@@ -117,24 +117,16 @@ Hi 👋 I'm **AYYOUB BOUSKKAR**, a passionate developer based in Morocco 🇲�
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/thaliss-bouskkar" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/github.png" width="50" margin="100"/>
-  </a>
+  <a href="https://github.com/thaliss-bouskkar" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/github.png" width="50" margin="100"/></a>
 &nbsp;
 &nbsp;
-  <a href="https://www.linkedin.com/in/ayyoub-bouskkar-5311502b0" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/linkedin.png" width="50"/>
-  </a>
+  <a href="https://www.linkedin.com/in/ayyoub-bouskkar-5311502b0" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/linkedin.png" width="50"/></a>
 &nbsp;
 &nbsp;
-  <a href="https://www.instagram.com/thalissbouskkar" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/instagram.png" width="50"/>
-  </a>
+  <a href="https://www.instagram.com/thalissbouskkar" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/instagram.png" width="50"/></a>
 &nbsp;
 &nbsp;
-  <a href="mailto:ayoubbouskkar@gmail.com" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/gmail.png" width="50"/>
-  </a>
+  <a href="mailto:ayoubbouskkar@gmail.com" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/gmail.png" width="50"/></a>
 </p>
 &nbsp;
 &nbsp;
