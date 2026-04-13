@@ -37,14 +37,17 @@ MISSION:
     <img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/github.png" width="50" margin="100"/>
   </a>
 &nbsp;
+&nbsp;
   <a href="https://www.linkedin.com/in/ayyoub-bouskkar-5311502b0">
     <img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/linkedin.png" width="50"/>
   </a>
-
+&nbsp;
+&nbsp;
   <a href="https://www.instagram.com/thalissbouskkar">
     <img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/instagram.png" width="50"/>
   </a>
-
+&nbsp;
+&nbsp;
   <a href="mailto:ayoubbouskkar@gmail.com">
     <img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/gmail.png" width="50"/>
   </a>
