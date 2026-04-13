@@ -93,5 +93,7 @@ Hi 👋 I'm **AYYOUB BOUSKKAR**, a passionate developer based in Morocco 🇲�
 &nbsp;
 &nbsp;
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thaliss-bouskkar&color=00C853&style=flat-square&label=PROFILE+VIEWS" />
+  <a href="https://github.com/thaliss-bouskkar">
+    <img src="https://komarev.com/ghpvc/?username=thaliss-bouskkar&color=00C853&style=flat-square&label=PROFILE+VIEWS" />
+  </a>
 </p>
