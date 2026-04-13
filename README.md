@@ -30,6 +30,55 @@ I specialize in building modern, scalable, and high-performance web applications
 
 ⚡ Always learning new technologies and improving my craft to deliver better and faster solutions.
 
+## 🛠️ My Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><strong>Frontend</strong></td>
+    <td align="center" width="33%"><strong>Backend</strong></td>
+    <td align="center" width="33%"><strong>Design & Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Adobe_PS-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thaliss-bouskkar&show_icons=true&theme=dark&rank_icon=github&border_radius=10&title_color=00C853&icon_color=00C853" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliss-bouskkar&layout=compact&theme=dark&border_radius=10&title_color=00C853" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project Name | Tech Stack | Link |
+| :--- | :--- | :--- |
+| **Expérience Maroc 2030** | React, Laravel | [View Project](#) |
+| **Travel Agency System** | PHP, SQL, JS | [View Project](#) |
+| **Digital Portfolio** | HTML, CSS, Figma | [View Project](#) |
+
+---
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
