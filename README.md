@@ -34,7 +34,7 @@ MISSION:
 
 <p align="center">
   <a href="https://github.com/thaliss-bouskkar">
-    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/REPO_NAME/main/assets/icons/github.png" width="50"/>
+    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/main/assets/icons/github.png" width="50"/>
   </a>
 
   <a href="https://www.linkedin.com/in/ayyoub-bouskkar-5311502b0">
