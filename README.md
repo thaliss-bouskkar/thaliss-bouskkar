@@ -1,7 +1,8 @@
 <!-- HERO PORTFOLIO HEADER -->
 <div align="center" style="position: relative;">
-  <img width="100%" height="150"
-       src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/anim.gif"/>
+  <img style="position:absolute; top:40px; left:0; right:0; margin:auto;"
+       width="100%"
+       src="https://capsule-render.vercel.app/api?type=waving&height=160&color=00C853&text=AYYOUB%20BOUSKKAR&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
 <h3 align="center">
