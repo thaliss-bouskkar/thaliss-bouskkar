@@ -91,7 +91,7 @@ Hi 👋 I'm **AYYOUB BOUSKKAR**, a passionate developer based in Morocco 🇲�
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C853&center=true&vCenter=true&width=600&lines=Let’s+Work+Together;Open+for+Freelance+Projects;Available+for+Collaborations;Let’s+Build+Something+Amazing" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C853&center=true&vCenter=true&width=600&lines=Let’s+Work+Together;Open+for+Freelance+%26+Collaborations" />
 </p>
 
 ## 🌐 Connect With Me
