@@ -1,6 +1,6 @@
 <!-- HERO PORTFOLIO HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,100:0ea5e9&text=AYYOUB%20BOUSKKAR&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=00C853&text=AYYOUB%20BOUSKKAR&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
 <h3 align="center">
