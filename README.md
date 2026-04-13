@@ -42,7 +42,7 @@ MISSION:
   </a>
 
   <a href="https://www.instagram.com/thalissbouskkar">
-    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkarE/main/assets/icons/instagram.png" width="50"/>
+    <img src="https://raw.githubusercontent.com/thaliss-bouskkar/thaliss-bouskkar/main/assets/icons/instagram.png" width="50"/>
   </a>
 
   <a href="mailto:ayoubbouskkar@gmail.com">
