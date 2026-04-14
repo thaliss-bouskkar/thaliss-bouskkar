@@ -1,11 +1,9 @@
 <!-- HERO PORTFOLIO HEADER -->
 
-<div align="center" style="position: relative;">
-  <a href="https://github.com/thaliss-bouskkar" align="center">
-  <img style="position:absolute; top:40px; left:0; right:0; margin:auto;"
-       width="100%"
-       src="https://capsule-render.vercel.app/api?type=waving&height=160&color=00C853&text=<AYYOUB%20BOUSKKAR/>&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-    </a>
+<div align="center">
+  <a href="https://github.com/thaliss-bouskkar">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=00C853&text=%3CAYYOUB%20BOUSKKAR/%3E&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  </a>
 </div>
 
 
